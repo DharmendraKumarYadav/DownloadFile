@@ -1,0 +1,12 @@
+D:\DemoApp\FileUtility\FileUtility.Model\bin\Debug\net6.0\FileUtility.Model.deps.json
+D:\DemoApp\FileUtility\FileUtility.Model\bin\Debug\net6.0\FileUtility.Model.dll
+D:\DemoApp\FileUtility\FileUtility.Model\bin\Debug\net6.0\FileUtility.Model.pdb
+D:\DemoApp\FileUtility\FileUtility.Model\obj\Debug\net6.0\FileUtility.Model.csproj.AssemblyReference.cache
+D:\DemoApp\FileUtility\FileUtility.Model\obj\Debug\net6.0\FileUtility.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoApp\FileUtility\FileUtility.Model\obj\Debug\net6.0\FileUtility.Model.AssemblyInfoInputs.cache
+D:\DemoApp\FileUtility\FileUtility.Model\obj\Debug\net6.0\FileUtility.Model.AssemblyInfo.cs
+D:\DemoApp\FileUtility\FileUtility.Model\obj\Debug\net6.0\FileUtility.Model.csproj.CoreCompileInputs.cache
+D:\DemoApp\FileUtility\FileUtility.Model\obj\Debug\net6.0\FileUtility.Model.dll
+D:\DemoApp\FileUtility\FileUtility.Model\obj\Debug\net6.0\refint\FileUtility.Model.dll
+D:\DemoApp\FileUtility\FileUtility.Model\obj\Debug\net6.0\FileUtility.Model.pdb
+D:\DemoApp\FileUtility\FileUtility.Model\obj\Debug\net6.0\ref\FileUtility.Model.dll

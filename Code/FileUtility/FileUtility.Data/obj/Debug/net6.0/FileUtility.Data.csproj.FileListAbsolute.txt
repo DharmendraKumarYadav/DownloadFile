@@ -1,0 +1,15 @@
+D:\DemoApp\FileUtility\FileUtility.Data\bin\Debug\net6.0\FileUtility.Data.deps.json
+D:\DemoApp\FileUtility\FileUtility.Data\bin\Debug\net6.0\FileUtility.Data.dll
+D:\DemoApp\FileUtility\FileUtility.Data\bin\Debug\net6.0\FileUtility.Data.pdb
+D:\DemoApp\FileUtility\FileUtility.Data\bin\Debug\net6.0\FileUtility.Model.dll
+D:\DemoApp\FileUtility\FileUtility.Data\bin\Debug\net6.0\FileUtility.Model.pdb
+D:\DemoApp\FileUtility\FileUtility.Data\obj\Debug\net6.0\FileUtility.Data.csproj.AssemblyReference.cache
+D:\DemoApp\FileUtility\FileUtility.Data\obj\Debug\net6.0\FileUtility.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoApp\FileUtility\FileUtility.Data\obj\Debug\net6.0\FileUtility.Data.AssemblyInfoInputs.cache
+D:\DemoApp\FileUtility\FileUtility.Data\obj\Debug\net6.0\FileUtility.Data.AssemblyInfo.cs
+D:\DemoApp\FileUtility\FileUtility.Data\obj\Debug\net6.0\FileUtility.Data.csproj.CoreCompileInputs.cache
+D:\DemoApp\FileUtility\FileUtility.Data\obj\Debug\net6.0\FileUtility.Data.csproj.CopyComplete
+D:\DemoApp\FileUtility\FileUtility.Data\obj\Debug\net6.0\FileUtility.Data.dll
+D:\DemoApp\FileUtility\FileUtility.Data\obj\Debug\net6.0\refint\FileUtility.Data.dll
+D:\DemoApp\FileUtility\FileUtility.Data\obj\Debug\net6.0\FileUtility.Data.pdb
+D:\DemoApp\FileUtility\FileUtility.Data\obj\Debug\net6.0\ref\FileUtility.Data.dll
